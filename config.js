@@ -79,7 +79,7 @@ global.lynk = 'https://lynk.id/kahfi.xd'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.sig = 'https://instagram.com/Fikriixyz'
 global.sgh = 'https://github.com/Akamaru' //github
-global.sgc = 'https://chat.whatsapp.com/DQImxkVI5Z84mUrNO5LzFx' //group whatsapp
+global.sgc = 'https://chat.whatsapp.com/IpcNJt03pOq6oMx8ahvGsj' //group whatsapp
 global.sdc = '-' //discord
 global.snh = '-'
 
