@@ -1,14 +1,14 @@
 let handler =  m => m.reply(`
 ╭─「 🧚🏻‍♂️ *DONASI* 」
 │
-├ PULSA / DANA / GOPAY :
-├ • *082123019956*
+├ PULSA / DANA /  :
+├ • *083137354143*
 │
 ├ • SAWERIA
-├ https://saweria.co/LorddShenn
+├ No Link Saweria
 │
 ├ • OWNERKU
-├ wa.me/6282123019956
+├ wa.me/62895330014743
 ╰───────────
 © 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 𝐅𝐢𝐤𝐫𝐢𝐢
 `.trim()) // Tambah sendiri kalo mau
