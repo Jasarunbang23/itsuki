@@ -39,38 +39,38 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['62895330014743', 'Wisnu', true],
-['62895330014743', 'Wisnu', true]
+['6285710264622', 'Baim', true],
+['6285710264622', 'Baim', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '62895330014743'
-global.nomorown = '62895330014743'
-global.nomorown1 = '62895330014743'
-global.nomorown2 = '62895330014743'
+global.nomorbot = '6285789957909'
+global.nomorown = '6285710264622'
+global.nomorown1 = '6285710264622'
+global.nomorown2 = '6285710264622'
 global.nomorwa = '0'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'Created By Itsuki - Nakano'
-global.namebot = 'Yui-Chan'
-global.wm = '© Wisnu-MD'
-global.media = 'https://telegra.ph/file/64ad339d5ac8ba53652c0.jpg'
+global.author = 'Created By Arif'
+global.namebot = 'Arif'
+global.wm = '© Arif'
+global.media = 'https://telegra.ph/file/8e6ec74578b587a4efe55.jpg'
 global.watermark = wm
 global.wm2 = 'Itsuki - Nakano '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `Itsuki - Nakano`
+global.titlebot = `Arif`
 global.stickpack = 'Made By'
-global.stickauth = `Itsuki - Nakano`
+global.stickauth = `Arif`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'Wisnuu'
-global.nameown2 = 'Itsuki - Nakano'
+global.nameown1= 'Baim'
+global.nameown2 = 'Arif'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
 global.lynk = 'https://lynk.id/kahfi.xd'
@@ -263,10 +263,10 @@ global.drtf = 'text/rtf'
 //OPTIONS
 global.optsnsfw = true // Untuk mematikan Dan Menyalakan Nsfw
 global.premnsfw = true // Nsfw Mode Premium?
-global.thumb = 'https://telegra.ph/file/d8871673368c51b739d10.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/d8871673368c51b739d10.jpg'
+global.thumb = 'https://telegra.ph/file/8e6ec74578b587a4efe55.jpg' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/8e6ec74578b587a4efe55.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
-global.thumbs = ['https://telegra.ph/file/d8871673368c51b739d10.jpg']
+global.thumbs = ['https://telegra.ph/file/8e6ec74578b587a4efe55.jpg']
 global.thumbnailUrl = [
   'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg', 'https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
   'https://telegra.ph/file/6359b013bc7e52c3b346f.jpg', 'https://telegra.ph/file/d43c89a5d2da72875ec05.jpg',
@@ -308,7 +308,7 @@ global.urlnya = "https://www.instagram.com/Fikriixyz"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
 global.phn = '6281515980491'
 
-global.thumbdoc = 'https://telegra.ph/file/d8871673368c51b739d10.jpg'
+global.thumbdoc = 'https://telegra.ph/file/8e6ec74578b587a4efe55.jpg'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.fsizedoc = '99999999999999'
