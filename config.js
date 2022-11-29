@@ -39,15 +39,15 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6285710264622', 'Baim', true],
-['6285710264622', 'Baim', true]
+['6285783141902', 'Baim', true],
+['6285783141902', 'Baim', true]
 ]
 global.mods = []
 global.prems = []
 global.nomorbot = '6285789957909'
-global.nomorown = '6285710264622'
-global.nomorown1 = '6285710264622'
-global.nomorown2 = '6285710264622'
+global.nomorown = '6285783141902'
+global.nomorown1 = '6285783141902'
+global.nomorown2 = '6285783141902'
 global.nomorwa = '0'
 
 
@@ -59,7 +59,7 @@ global.namebot = 'Arif'
 global.wm = '© Arif'
 global.media = 'https://telegra.ph/file/8e6ec74578b587a4efe55.jpg'
 global.watermark = wm
-global.wm2 = 'Itsuki - Nakano '
+global.wm2 = 'ArifBotz'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
